@@ -2,6 +2,10 @@
 
 ## 1. Descripcion del Sistema
 
+-El codigo tiene que tener exactamente 8 caracteres.
+-Iniciar con la letra "E".
+-Los 7 caracteres restantes deben ser números.
+
 ## 2. Requerimientos a Evaluar
 
 **RF02-Student-code.**
