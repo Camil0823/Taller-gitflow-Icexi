@@ -7,7 +7,12 @@
 #### RF-01 Registro de Estudiante (Edad)
   El sistema debe permitir el registro de estudiantes cuya edad esté entre 16 y 65 años inclusive.
 
-  Análisis de Valor Límite
+
+## 3. Tecnicas de Prueba Aplicadas
+
+- RF-01 Registro de Estudiante (Edad)
+
+    Análisis de Valor Límite
 
   - Caso 1: Ls16  -> 17 
   - Caso 2: Li16 -> 15
@@ -28,7 +33,8 @@
 
 Escogí la técnica de valor límite, porque cómo se esta hablando de rangos con límites, por ende es la más adecuada para demostrar que casos son válidos y cuales no.
 
-## 3. Tecnicas de Prueba Aplicadas
+- RF-02 Código de Estudiante
+- RF-03 Inscripción a Evento
 
 ## 4. Casos de Prueba Diseñados
 
