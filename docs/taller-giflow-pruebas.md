@@ -27,6 +27,12 @@ la logica de la tabla sigue al pie de la letra el enunciado y las necesidades de
 ## 4. Casos de Prueba Diseñados
 
 ## 5. Trazabilidad
+| Requerimiento | Técnica | Casos Asociados |
+|--------------|---------|----------------|
+| RF-01 | (Analicis de valor) | CP-01, CP-02, CP-03, CP-04, CP-05, CP-06 |
+| RF-02 | (Particón de Equivalencia) | V1,V2,V3 I1,I2,I3,I4 |
+| RF-03 | (Técnica elegida) | V1,I1,I2,I3,I4,I5,I6,I7,I8 |
+
 
 ## 6. Gestion de Versiones (GitFlow)
 
